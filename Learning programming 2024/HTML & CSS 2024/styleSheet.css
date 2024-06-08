@@ -1,0 +1,39 @@
+h1{
+color: aqua;
+}
+h2{
+color: greenyellow;   
+}
+.Paragraphs{
+    color:blue;
+    background-color: yellow;
+}
+#Website_as_image{
+    color:black ;
+    background-color: red;
+}
+#Reservation_Form{
+    color: red;
+}
+.Form_Labels{
+    color:blue;
+}
+.parent{
+    background-color: #cc00ff;
+}
+.moon{
+    background-image: url("moon.jpg");
+    width: 40%;
+    height: 90%;
+    left: 5%;
+    top: 5%;
+    position: absolute;
+}
+.sun{
+    background-image: url("sun.jpg");
+    width: 40%;
+    height: 90%;
+    left: 5%;
+    top: 5%;
+    position: absolute;
+}
